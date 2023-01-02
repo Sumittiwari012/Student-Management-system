@@ -1,0 +1,4 @@
+course_id,course_name,marks_obtained
+C001,Python Programming,"{""CSE2201"": 90, ""CSE2101"": 84}"
+C002,Physics,"{""CSE2201"": 56, ""CSE2101"": 87, ""ECE2201"": 67, ""ECE2202"": 98}"
+C003,Chemistry,"{""ECE2201"": 77, ""ECE2101"": 82, ""EEE2201"": 61, ""EEE2202"": 93}"
